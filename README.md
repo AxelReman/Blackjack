@@ -1,6 +1,17 @@
-# Blackjack
-This was the first project created at the NOD bootcamp. The work was done in pairs, in order to work on collaboration in code, as well as sharing of ideas.
+# BlackJack
+ Black jack game
 
-The time allocated for this project was tuesday after lunch up until thursday at 16:00. On the thursday, a presentation had to be created; this presentation can be found as a powerpoint in this repository.
+ Pouria Momayyezi and Axel Reman developed this blackjack game during a two-day project at Nod coding bootcamp. The game simulates a casino blackjack game, with the player facing a computer simulated dealer. The game-logic follows the rules of professional blackjack dealers and accounts for all possible outcomes during a game of blackjack between one player and a dealer. The user can simulate casino blackjack gameplay within seconds and play an unlimited amount of times. With this game, users can experience the excitement of playing blackjack without leaving their home.
+ 
 
-Aim is to create a game using user-created interactive functions, and there were certain conditions that had to be met.
+ Project Goals
+●Build your own program from scratch
+●Initiate your GitHub repository
+●Get experience in presenting technical solutions
+
+  Project Requirements
+●The project must be planned beforehand – Use Trello Board
+●Throughout the project you will do pair-programming, for example 1h switches
+●The code must include functions
+●The program must include inputs and outputs
+●The project will be presented in front of the class
